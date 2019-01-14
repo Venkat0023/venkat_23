@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 
-public class Oddoreven {
+class Oddoreven {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a= scanner.nextInt();
