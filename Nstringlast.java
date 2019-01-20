@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by venkat prasad on 1/20/2019.
  */
-public class Nstringlast {
+class Nstringlast {
     public static void main(String[] args) {
         String str,temp="";
         int n;
@@ -19,3 +19,4 @@ public class Nstringlast {
         System.out.println(temp);
     }
 }
+                    
