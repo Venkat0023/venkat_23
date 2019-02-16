@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class NoOfcharWOspc {
-    public static void main(String[] args) {
+     static void main(String[] args) {
         int sum=0;
         System.out.println("Enter the string");
         Scanner sc=new Scanner(System.in);
