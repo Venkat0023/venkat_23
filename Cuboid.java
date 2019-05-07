@@ -1,8 +1,5 @@
-package com.venkat.kids_player;
-
 import java.util.Scanner;
-
-public class Cuboid {
+class Cuboid {
     public static void main(String[] args) {
         int l,b,h,sa,vol;
         Scanner scanner=new Scanner(System.in);
